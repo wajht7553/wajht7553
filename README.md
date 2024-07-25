@@ -24,18 +24,11 @@ I'm a passionate Computer Scientist with a keen interest in Artificial Intellige
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
-## 🏆 Projects
-
-Here are some of my notable AI projects:
-
-1. [Project Name](link-to-repo) - Brief description
-2. [Project Name](link-to-repo) - Brief description
-3. [Project Name](link-to-repo) - Brief description
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=wajht7553&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ## 📫 Let's Connect
@@ -43,5 +36,5 @@ Here are some of my notable AI projects:
 - [LinkedIn](https://www.linkedin.com/in/wajht7553/)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=wajht7553&color=blueviolet" alt="Profile views">
 </div>
