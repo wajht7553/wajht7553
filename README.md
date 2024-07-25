@@ -10,7 +10,7 @@ I'm a passionate Computer Scientist with a keen interest in Artificial Intellige
 
 ## 🚀 My AI Journey
 
-- 🎓 BS in Computer Science from Islamia College University, Peshawar
+- 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
 - 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
 - 🔭 Researching Deep Learning Based Autonomous Driving over Economical Hardware
 - 🌱 Always learning and staying updated with the latest in AI and Machine Learning
