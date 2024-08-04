@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Wajahat Ullah
 
 <div align="center">
-  <img src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="300" alt="AI Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBndnhjMTZvbHF3MGk2ZjJlYWY1cm0xYzQ4aWQzd3F1Y2wydm9lZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="300" alt="AI Animation">
 </div>
 
 ## 🧠 About Me
