@@ -13,13 +13,13 @@
 
 ## 🚀 About Me
 
-CS graduate with a passion for pushing the boundaries of Computer Vision, AI, and Deep Learning. I'm on a mission to make machines see, think, and learn like humans. When I'm not coding, you'll find me diving into research papers.
+Graduate researcher at the department of Applied Artificial Intelligence, Sungkyunkwan University. I have a passion for pushing the boundaries of deep learning and Autonomous Systems. I'm on a mission to make machines see, think, and learn like humans. When I'm not coding, you'll find me diving into research papers.
 
 ## 🔭 My Journey
 
-- 🎓 Bachelors in Computer Science from Islamia College University, Peshawar
-- 💼 Currently working as Research Assistant at Digital Image Processing Lab, ICP
-- 🔭 Researching Deep Learning Based Autonomous Driving over Economical Hardware
+- 🎓 Master of Applied Artificial Intelligence from Sungyunkwan University (SKKU), Seoul, South Korea
+- 💼 Currently working as Research Assistant at VIS2Know Lab, SKKU
+- 🔭 Researching human activity recognition, privacy preserving AI, and self-supervised learning
 - 🌱 Always learning and staying updated with the latest in AI and computer vision
 
 ## 💻 Tech Stack
