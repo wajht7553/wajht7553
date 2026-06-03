@@ -1,8 +1,8 @@
 <a href="https://wajahatullah.netlify.app" style="text-decoration: none; color: inherit;"><h1 align="center">👋 I'm Wajahat Ullah</h1></a>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-🖥️-brightgreen" alt="Computer Vision">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue" alt="Artificial Intelligence">
+  <img src="https://img.shields.io/badge/Computer%20Vision-🖥️-brightgreen" alt="Computer Vision">
   <img src="https://img.shields.io/badge/Deep%20Learning-🧠-orange" alt="Deep Learning">
   <img src="https://img.shields.io/badge/Research-📚-yellow" alt="Research">
 </p>
